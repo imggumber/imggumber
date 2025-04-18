@@ -1,8 +1,15 @@
-🎩 I Code Like a Gentleman, Deploy Like a Pirate
-Write PHP like a story, commit like a novelist, and push to production like I trust myself.
-Vue and Next.js? Both in the toolbox.
-NGINX keeps it cool, MySQL keeps it deep.
-If it doesn’t scale, it doesn’t ship.
+# About Me
+- 🎩 I Code Like a Gentleman, Deploy Like a Pirate
+- 📝 **Write PHP like a story**  
+- 📚 **Commit like a novelist**  
+- 🚢 **Push to production like I trust myself**  
+- 🛠️ **Vue and Next.js? Both in the toolbox**  
+- ❄️ **NGINX keeps it cool**  
+- 🔍 **MySQL keeps it deep**
+> If it doesn’t scale, it doesn’t ship. ⚡
+---
+
+
 
 
 ## 🌐 Socials:
